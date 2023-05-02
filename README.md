@@ -39,5 +39,5 @@ Firewall Rules:  <br/>
 <img src="https://imgur.com/xVY6EHW.png" height="80%" width="80%" alt="Project D"/>
 <br />
 <br />
-Check- FTP blocked;  <br/>
+Check- FTP blocked:  <br/>
 <img src="https://imgur.com/fuZnSiq.png" height="80%" width="80%" alt="Project D"/>
